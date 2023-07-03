@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pravinpandhare&label=Profile%20views&color=0e75b6&style=flat" alt="pravinpandhare" /> </p>
 
-- 🔭 I’m currently working on **finprop**
+- 🔭 I’m currently working on **Finprop/SocialMediaApplication/**
 
 - 🌱 I’m currently learning **React JS , Angular Framework,DotNet Core,**
 
